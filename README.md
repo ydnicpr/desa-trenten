@@ -4,7 +4,12 @@ Website ini dibuat sebagai bagian dari program KKN PPM UGM, bertujuan untuk memp
 
 ## Web Preview
 Link = **[Desa Trenten](https://ydnicpr.github.io/desa-trenten/)**
-![Website Preview](preview.png)
+
+![Website Preview](preview1.png)
+![Website Preview](preview2.png)
+![Website Preview](preview3.png)
+![Website Preview](preview4.png)
+![Website Preview](preview5.png)
 
 
 ## ✨ Fitur Utama
