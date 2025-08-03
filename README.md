@@ -3,6 +3,7 @@
 Website ini dibuat sebagai bagian dari program KKN PPM UGM, bertujuan untuk memperkenalkan potensi desa, struktur kelembagaan, serta berbagai kegiatan seni dan budaya yang ada di Desa Trenten.
 
 ## Web Preview
+Link = **[Desa Trenten](https://ydnicpr.github.io/desa-trenten/)**
 ![Website Preview](preview.png)
 
 
