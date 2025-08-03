@@ -3,7 +3,8 @@
 Website ini dibuat sebagai bagian dari program KKN PPM UGM, bertujuan untuk memperkenalkan potensi desa, struktur kelembagaan, serta berbagai kegiatan seni dan budaya yang ada di Desa Trenten.
 
 ## Web Preview
-![Website Preview](preview.jpg)
+![Website Preview](preview.png)
+
 
 ## ✨ Fitur Utama
 
@@ -14,17 +15,18 @@ Website ini dibuat sebagai bagian dari program KKN PPM UGM, bertujuan untuk memp
 - Responsif untuk perangkat mobile dan desktop
 - Footer dengan informasi kontak, media sosial, dan tautan eksternal
 
+
 ## 🖼️ Infografis
 
-Infografis yang ditampilkan menggambarkan pemanfaatan tanaman sebagai pengobatan tradisional dari berbagai dusun seperti Sajen dan Dukuh Tempel.
+Contoh infografis yang ditampilkan menggambarkan pemanfaatan tanaman sebagai pengobatan tradisional dari berbagai dusun seperti Sajen dan Dukuh Tempel.
 
-## ⚙️ Teknologi
 
-- HTML5 & CSS3
+## ⚙️ Tech
+
+- HTML & CSS
 - Bootstrap 4
 - jQuery
-- Font Awesome (beberapa ikon diganti dengan gambar custom)
-- Struktur modular untuk memudahkan penambahan konten
+- Font Awesome 
 
 
 ## 🙏 Terima Kasih
